@@ -12,4 +12,4 @@ Programer in
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-I invite anyone who wants to help me add to and update my [repository](https://github.com/Del-SFS/ModCenterSFS). Contact me at [Del](DelSFS2@outlook.com). Thank you.
+I invite anyone who wants to help me add to and update my [repository](https://github.com/Del-SFS/ModCenterSFS). Contact me at [Del](DelSFS2@outlook.com) and [itch](https://del-sfs.itch.io) Thank you.
