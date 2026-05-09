@@ -1,10 +1,15 @@
-Hi, my name is Wendel, but call me Del.
----
- I build things.
-From small tools to full systems — always focused on making them work better.
-Spaceflight Simulator and Kerbal Space Program enthusiast. 
+## 🚀 Hi, my name is Wendel, but call me Del.
 
-Programer in
+I build things — from small tools to full systems — always focused on making them work better.
+
+I'm a developer passionate about:
+- Space simulations
+- Experimental systems
+- Game development
+- Spaceflight Simulator & Kerbal Space Program
+
+
+## 💻 Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -12,4 +17,17 @@ Programer in
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-I invite anyone who wants to help me add to and update my [repository](https://github.com/Del-SFS/ModCenterSFS). Contact me at [Del](DelSFS2@outlook.com) and [itch](https://del-sfs.itch.io) Thank you.
+
+## 🚀 Current Projects
+- Starbase Tycoon Sim
+- SCAN / ModCenterSFS
+
+## 🌌 Where to find me
+
+🎮 [itch.io](https://del-sfs.itch.io)
+
+💻 [GitHub Repository](https://github.com/Del-SFS/ModCenterSFS)
+
+📧 [Contact](DelSFS2@outlook.com)
+
+Thank you for visiting my profile 🚀
