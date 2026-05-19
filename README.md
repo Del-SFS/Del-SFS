@@ -19,7 +19,7 @@ I'm a developer passionate about:
 
 ## 🚀 Current Projects
 - Starbase Tycoon Sim
-- SFS Comprehesive Archive Network (SCAN)
+- SFS Comprehesive Addon Network (SCAN)
 
 ## 🌌 Where to find me
 
