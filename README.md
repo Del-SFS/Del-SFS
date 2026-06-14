@@ -1,7 +1,10 @@
 ## Hi, my name is Del,                 
 I'm a developer and creator of SCAN (SFS Comprehensive Addon Network).
 
-You can find me at [itch.io](https://del-sfs.itch.io), [sfs forum](https://sfsforum.com/index.php), here on [GitHub](https://github.com/Del-SFS).
+You can find me at 
+[Itch.io](https://del-sfs.itch.io)
+[sfs forum](https://sfsforum.com/index.php)
+here on [GitHub](https://github.com/Del-SFS).
 
 ### Special Links (music)
 [supersonic rocket ship](https://www.youtube.com/watch?v=iZB8XXYePy0)         
