@@ -3,7 +3,9 @@ I'm a developer and creator of SCAN (SFS Comprehensive Addon Network).
 
 You can find me at 
 [Itch.io](https://del-sfs.itch.io)
+
 [sfs forum](https://sfsforum.com/index.php)
+
 here on [GitHub](https://github.com/Del-SFS).
 
 ### Special Links (music)
