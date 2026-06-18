@@ -3,8 +3,8 @@ I'm a developer and creator of SCAN (SFS Comprehensive Addon Network).
 
 You can find me at               
 [Itch.io](https://del-sfs.itch.io)         
-[sfs forum](https://sfsforum.com/index.php)           
-here on [GitHub](https://github.com/Del-SFS).         
+[SFS forum](https://sfsforum.com/index.php)           
+[My Hub](https://del-hub.duckdns.org).         
 
 ### Special Links (music)
 [supersonic rocket ship](https://www.youtube.com/watch?v=iZB8XXYePy0)         
