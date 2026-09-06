@@ -1,6 +1,7 @@
 ## Hi, my name is Del,                 
 I'm a creator of SCAN (SFS Comprehensive Addon Network).  
 Currently trying to learn C# and I want to be a 2D game developer at Godot.
+I'm still going to build a C# app that has a database <)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
