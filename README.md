@@ -1,14 +1,13 @@
-## Hi, my name is Del,                 
-I'm a creator of SCAN (SFS Comprehensive Addon Network).  
-Currently trying to learn C# and I want to be a 2D game developer at Godot.
-I'm still going to build a C# app that has a database <)
+### Hi
+I’m Del-SFS. I’m from Brazil, I’m 13 years old, and I want to create things.
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+I’ve always been interested in outer space, games, and assembling or building things.
 
+### following
+If you happen to like what I do, follow me! :3 I would be very grateful.
+follow me more at:
 
-### Special Links (music)
-[supersonic rocket ship](https://www.youtube.com/watch?v=iZB8XXYePy0)         
-[Supersonic rocket ship (KSP)](https://www.youtube.com/watch?v=L_ukRLRZtgU&list=RDL_ukRLRZtgU&start_radio=1)        
-[Happy Together (KSP)](https://www.youtube.com/watch?v=zd-fRk8Hskg&list=RDzd-fRk8Hskg&start_radio=1)            
+- [itch.io](https://del-sfs.itch.io)
+- [discord](https://discord.gg/R6Snjzdzr7)
+- [youtube](https://youtube.com/@Del-MeteoProgramer)
+- [tiktok](https://www.tiktok.com/@user3532372352441)
